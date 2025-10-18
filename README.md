@@ -1,0 +1,1 @@
+# SubtitleTranslator-v1.0
