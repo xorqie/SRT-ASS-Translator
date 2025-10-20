@@ -4,6 +4,8 @@
 
 **A powerful, AI-powered SRT/ASS subtitle translation tool designed for Localization/Subtitle Translation enthusiasts**
 
+![](SRTASSTranslator.png) 
+
 [Download Latest Release](https://github.com/xorqie/SRT-ASS-Translator/releases/tag/v1.0.0) • [Report Bug](https://github.com/xorqie/SRT-ASS-Translator/issues) • [Request Feature](https://github.com/xorqie/SRT-ASS-Translator/issues)
 
 </div>
