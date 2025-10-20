@@ -369,6 +369,6 @@ copies of the Software...
 
 **Made with ❤️ for the anime community**
 
-[⬆ Back to Top]([#table-of-contents](https://github.com/xorqie/SRT-ASS-Translator?tab=readme-ov-file#-table-of-contents))
+[⬆ Back to Top](https://github.com/xorqie/SRT-ASS-Translator?tab=readme-ov-file#-table-of-contents)
 
 </div>
