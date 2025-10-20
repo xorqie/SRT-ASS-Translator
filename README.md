@@ -4,7 +4,7 @@
 
 **A powerful, AI-powered SRT/ASS subtitle translation tool designed for Localization/Subtitle Translation enthusiasts**
 
-[Download Latest Release](https://github.com/xorqie/subtitle-translator/releases) • [Report Bug](https://github.com/xorqie/subtitle-translator/issues) • [Request Feature](https://github.com/xorqie/subtitle-translator/issues)
+[Download Latest Release](https://github.com/xorqie/SRT-ASS-Translator/releases/tag/v1.0.0) • [Report Bug](https://github.com/xorqie/SRT-ASS-Translator/issues) • [Request Feature](https://github.com/xorqie/SRT-ASS-Translator/issues)
 
 </div>
 
@@ -30,7 +30,7 @@
 
 ## 🎯 Overview
 
-**Subtitle Translator Pro** is a desktop application built in Python that makes translating subtitles effortless. Whether you're a fansub group, a language learner, localization company, freelancer or just want to translate your favorite show/anime/movie in your native language, this tool provides professional-grade translations on SRT/ASS subtitles with minimal effort using Gemini's Model.
+**SRT/ASS Subtitle Translator v1.0.0** is a desktop application built in Python that makes translating subtitles effortless. Whether you're a fansub group, LQA company, freelancer or you just want to translate your favorite show/anime/movie in your native language, this tool provides professional-grade translations on SRT/ASS subtitles with minimal effort using Gemini's Model.
 
 ### Why This Tool?
 
@@ -74,7 +74,7 @@
 
 ### Option 1: Download Pre-Built Executable (Recommended)
 
-1. Go to the [Releases Page](https://github.com/xorqie/subtitle-translator/releases)
+1. Go to the [Releases Page](https://github.com/xorqie/SRT-ASS-Translator/releases/tag/v1.0.0)
 2. Download the latest `SubtitleTranslator.exe`
 3. Run the executable - **no installation required!**
 
@@ -157,13 +157,13 @@ Click **"▶️ Start Translation"** and wait for completion!
 ### Google Translate (Free)
 - ✅ No API key required
 - ✅ Fast and reliable
-- ✅ Good for general translations
+- ✅ Good for general translations with less workflow
 - ❌ Less accurate for idioms and slang
 
 ### Gemini AI (Advanced)
 - ✅ Better context understanding
 - ✅ Superior handling of anime-specific terms
-- ✅ More natural translations
+- ✅ More natural translations made to handle significant amount of volumes
 - ✅ Free tier: 1000 requests/day
 - ⚠️ Requires API key (free from Google)
 
@@ -176,7 +176,7 @@ Click **"▶️ Start Translation"** and wait for completion!
 The app uses intelligent filtering to log only **important translations**:
 
 ### What Gets Logged:
-- ✅ Anime-specific terms (jutsu, sensei, nakama, etc.)
+- ✅ Anime/Show/Movie-specific terms (jutsu, sensei, nakama, lady, etc.)
 - ✅ Long sentences (5+ words)
 - ✅ Idioms and expressions
 - ✅ Translations with significant length differences
@@ -196,7 +196,7 @@ The app uses intelligent filtering to log only **important translations**:
 ### Minimum Requirements
 - **OS**: Windows 10 or later (64-bit)
 - **RAM**: 4 GB
-- **Storage**: 100 MB free space
+- **Storage**: 200 MB free space
 - **Internet**: Required for translation APIs
 
 ### Recommended Requirements
@@ -237,7 +237,7 @@ The tool itself is MIT licensed. However, check Google's and Gemini's terms of s
 <summary><b>What's the translation quality like?</b></summary>
 
 - **Google**: Good for general dialogue, may struggle with idioms
-- **Gemini**: Excellent context awareness, better for anime-specific terminology
+- **Gemini**: Excellent context awareness, better for anime or movie-specific terminology
 </details>
 
 <details>
@@ -350,8 +350,8 @@ copies of the Software...
 
 ## 📞 Support
 
-- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/xorqie/subtitle-translator/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/xorqie/subtitle-translator/discussions)
+- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/xorqie/SRT-ASS-Translator/issues)
+- 💬 **Discussions**: [GitHub Discussions](https://github.com/xorqie/SRT-ASS-Translator/discussions)
 
 ---
 
@@ -366,8 +366,6 @@ copies of the Software...
 ---
 
 <div align="center">
-
-**Made with ❤️ for the anime community**
 
 [⬆ Back to Top](https://github.com/xorqie/SRT-ASS-Translator?tab=readme-ov-file#-table-of-contents)
 
