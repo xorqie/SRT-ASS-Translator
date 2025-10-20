@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**A powerful, AI-powered subtitle translation tool designed for Localization/Subtitle Translation enthusiasts**
+**A powerful, AI-powered SRT/ASS subtitle translation tool designed for Localization/Subtitle Translation enthusiasts**
 
 [Download Latest Release](https://github.com/xorqie/subtitle-translator/releases) • [Report Bug](https://github.com/xorqie/subtitle-translator/issues) • [Request Feature](https://github.com/xorqie/subtitle-translator/issues)
 
