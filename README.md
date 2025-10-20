@@ -1,4 +1,4 @@
-# 🎌 Subtitle Translator v1.0
+# 🎌 SRT/ASS Subtitle Translator v1.0.0
 
 <div align="center">
 
