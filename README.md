@@ -30,7 +30,7 @@
 
 ## 🎯 Overview
 
-**Subtitle Translator Pro** is a desktop application built in Python that makes translating subtitles effortless. Whether you're a fansub group, a language learner, or just want to translate your favorite show/anime/movie in your native language, this tool provides professional-grade translations with minimal effort using Gemini's Model.
+**Subtitle Translator Pro** is a desktop application built in Python that makes translating subtitles effortless. Whether you're a fansub group, a language learner, localization company, freelancer or just want to translate your favorite show/anime/movie in your native language, this tool provides professional-grade translations on SRT/ASS subtitles with minimal effort using Gemini's Model.
 
 ### Why This Tool?
 
